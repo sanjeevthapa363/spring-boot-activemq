@@ -1,0 +1,8 @@
+# Ignore macOS system files
+*.DS_Store
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
